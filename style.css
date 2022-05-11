@@ -1,0 +1,10 @@
+body {
+background-color: blueviolet;
+text-align: center;
+}
+.line {
+    width: 150px;
+    height: 8px;
+    background-color: black;
+    margin: 10px auto;
+}
